@@ -33,7 +33,8 @@ Welcome to my corner of GitHub! 🚀 I build apps that live in your pocket, scal
 ### Mobile Software Engineer (5 years)
 
 - 📱 *[Hashkey Me](https://me.hashkey.com/zh-CN)* — Blockchain wallet application • Dart, Flutter
-- 📈 *[HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337)* • Objective-C, UIKit
+
+- 📈 *[HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337)* - Financial trading platform • Objective-C, UIKit
 
 ## 📌 Academic Projects (Pinned on GitHub)
 
