@@ -26,12 +26,14 @@ Welcome to my corner of GitHub! 🚀 I build apps that live in your pocket, scal
 
 ## 💼 Professional Experience
 
-**Full Stack Developer Intern**
+### Full Stack Developer Intern
+
 🤝 *[Impulse: Achieve More Together](https://www.findyourimpulse.com)*— Social productivity platform • Node.js, React Native
 
-**Mobile Software Engineer (5 years)**
-📱 *[Hashkey Me](https://me.hashkey.com/zh-CN)* — Blockchain wallet application • Dart, Flutter
-📈 *[HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337)* • Objective-C, UIKit
+### Mobile Software Engineer (5 years)
+
+- 📱 *[Hashkey Me](https://me.hashkey.com/zh-CN)* — Blockchain wallet application • Dart, Flutter
+- 📈 *[HongTa Securities - Zhiyue Wealth](https://itunes.apple.com/cn/app/id529436337)* • Objective-C, UIKit
 
 ## 📌 Academic Projects (Pinned on GitHub)
 
