@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 Welcome to my corner of GitHub! 🚀 I build apps that live in your pocket, scale in the cloud, and (hopefully) make life easier.
 
----
-
 ## 👨‍💻 About Me
 
 - 📱 **Mobile-first**: iOS (Swift/Obj-C), Flutter, React Native
@@ -42,8 +40,6 @@ Welcome to my corner of GitHub! 🚀 I build apps that live in your pocket, scal
 - ☁️ **Cloud-Native Movie Recommendation Engine**: Full cloud deployment pipeline with infrastructure automation
   - [Infrastructure as Code](https://github.com/dexkum-2myzZy-jipzid/cloud-project-terraform-aws-infra) – AWS infrastructure provisioning with Terraform, GitHub Actions CI/CD
   - [Web Application](https://github.com/dexkum-2myzZy-jipzid/cloud-native-web-application) – Flask backend with MySQL, deployed on EC2 with CloudWatch monitoring
-
----
 
 ## 🌐 Connect with Me
 
